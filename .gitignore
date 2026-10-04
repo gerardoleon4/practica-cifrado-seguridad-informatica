@@ -1,0 +1,7 @@
+# Llaves privadas: nunca se suben
+*_privada.pem
+
+# Archivos generados por receptor.js
+recuperado_*
+
+node_modules/
