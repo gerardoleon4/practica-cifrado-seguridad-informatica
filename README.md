@@ -1,4 +1,6 @@
-# Práctica 2 — Criptografía Asimétrica y Protección de Datos
+# Práctica de Cifrado — Seguridad Informática
+
+**Criptografía Asimétrica y Protección de Datos**
 
 Esquema de comunicación segura entre dos entidades usando **RSA en Node.js** (módulo nativo `crypto`, sin dependencias externas). **Gerson** (emisor) envía a **Miguel** (receptor) un mensaje confidencial y un archivo adjunto, cifrados y firmados digitalmente. Además se simula un ataque *Man-in-the-Middle* y se manejan los errores de descifrado.
 
